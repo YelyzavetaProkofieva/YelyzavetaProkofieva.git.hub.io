@@ -8,7 +8,7 @@ The journal documents my assessments for required weeks, including system planni
 ## Weekly Journal
 
 ### Week 1 – System Planning and Distribution Selection
-[View Week 1 Document](Week1_System_Planning.docx)  
+[View Week 1 Document](week1.pdf)  
 This week covers system requirements analysis, operating system selection, and justification of chosen Linux distributions for server and workstation systems.
 
 ---
