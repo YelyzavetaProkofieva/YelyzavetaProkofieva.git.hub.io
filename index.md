@@ -14,13 +14,13 @@ This week covers system requirements analysis, operating system selection, and j
 ---
 
 ### Week 2 – Virtual Machine Setup
-[View Week 2 Document](Week5-Assessment2.pdf)  
+[View Week 2 Document](Week2.pdf)  
 This week documents the creation of VirtualBox virtual machines, resource allocation, and initial operating system installation.
 
 ---
 
 ### Week 3 – Server Configuration
-[View Week 3 Document](Week 7 - assessment Week 3.pdf)  
+[View Week 3 Document](Week3.pdf)  
 This week focuses on Ubuntu Server configuration, SSH access, firewall setup, and secure remote management.
 
 ---
