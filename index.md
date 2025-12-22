@@ -14,7 +14,7 @@ This week covers system requirements analysis, operating system selection, and j
 ---
 
 ### Week 2 – Virtual Machine Setup
-[View Week 2 Document](Week 5 - Assessment 2.pdf)  
+[View Week 2 Document](Week5-Assessment2.pdf)  
 This week documents the creation of VirtualBox virtual machines, resource allocation, and initial operating system installation.
 
 ---
