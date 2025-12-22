@@ -14,35 +14,35 @@ This week covers system requirements analysis, operating system selection, and j
 ---
 
 ### Week 2 – Virtual Machine Setup
-[View Week 2 Document](Week2_VM_Setup.docx)  
+[View Week 2 Document](Week 5 - Assessment 2.pdf)  
 This week documents the creation of VirtualBox virtual machines, resource allocation, and initial operating system installation.
 
 ---
 
 ### Week 3 – Server Configuration
-[View Week 3 Document](Week3_Server_Configuration.docx)  
+[View Week 3 Document](Week 7 - assessment Week 3.pdf)  
 This week focuses on Ubuntu Server configuration, SSH access, firewall setup, and secure remote management.
 
 ---
 
 ### Week 4 – Network Configuration
-[View Week 4 Document](Week4_Network_Configuration.docx)  
+[View Week 4 Document](Week 8 - Assessment week 4.pdf)  
 This week documents VirtualBox network settings, IP addressing, and communication between the server and workstation.
 
 ---
 
 ### Week 5 – System Information via CLI
-[View Week 5 Document](Week5_CLI_System_Info.docx)  
+[View Week 5 Document](Week 9 - Assessment week 5.pdf)  
 This week covers collecting system information using Linux command-line tools such as `uname`, `df`, `free`, and `ip addr`.
 
 ---
 
 ### Week 6 – Security and Access Control
-[View Week 6 Document](Week6_Security.docx)  
+[View Week 6 Document](Week 10 - Assessment week 6.pdf)  
 This week documents firewall configuration, SSH authentication, and access control measures.
 
 ---
 
 ### Week 7 – Reflection and Evaluation
-[View Week 7 Document](Week7_Reflection.docx)  
+[View Week 7 Document](Week 11 - Assessment week 7.pdf)  
 This week provides a reflection on learning outcomes, challenges faced, and skills developed during the module.
